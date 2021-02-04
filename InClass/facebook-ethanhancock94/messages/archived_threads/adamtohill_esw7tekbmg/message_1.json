@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Adam Tohill"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1309443442000,
+      "content": "hi can you and kiernan come to kaitlyn's bday party  and dinner on Saturday July 2nd at 5.\n\nPlease Come,\nEthan and Kaitlyn",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Adam Tohill",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/adamtohill_esw7tekbmg"
+}

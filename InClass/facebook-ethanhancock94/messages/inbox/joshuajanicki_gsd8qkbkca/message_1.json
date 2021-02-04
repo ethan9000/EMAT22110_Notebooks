@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Joshua Janicki"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joshua Janicki",
+      "timestamp_ms": 1579376278618,
+      "content": "You and Joshua Janicki are celebrating 2 years of friendship on Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547867347622,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Joshua Janicki",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/joshuajanicki_gsd8qkbkca"
+}

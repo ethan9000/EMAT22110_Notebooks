@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Carla Northrup"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590716626211,
+      "content": "Yes I would do $100 a piece as long as you buy both",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carla Northrup",
+      "timestamp_ms": 1590716102034,
+      "content": "Would you do $100 a piece?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589731602498,
+      "content": "Yes it is",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carla Northrup",
+      "timestamp_ms": 1589717500860,
+      "content": "Carla is waiting for your response.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carla Northrup",
+      "timestamp_ms": 1589695780170,
+      "content": "Is this still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carla Northrup",
+      "timestamp_ms": 1589695778824,
+      "content": "Carla changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carla Northrup",
+      "timestamp_ms": 1589695778560,
+      "content": "Carla named the group Carla \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carla \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/carlahp24fdisplay_gca88fkniw"
+}

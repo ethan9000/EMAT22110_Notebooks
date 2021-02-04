@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "John Enlow McCartney"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Enlow McCartney",
+      "timestamp_ms": 1335643765664,
+      "content": "Hey right back.   Really looking forward to seeing you and your bros next weekend.    Have a safe trip!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1335628253669,
+      "content": " Hey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "John Enlow McCartney",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/johnenlowmccartney_05eqt3bshg"
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Lauren Antoinette Di Williams"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lauren Antoinette Di Williams",
+      "timestamp_ms": 1539560655443,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lauren Antoinette Di Williams",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/laurenantoinettediwilliams_cwo_gpldka"
+}

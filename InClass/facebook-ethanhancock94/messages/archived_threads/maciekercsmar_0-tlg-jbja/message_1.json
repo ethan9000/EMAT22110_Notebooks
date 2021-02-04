@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Macie Kercsmar"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1356147242236,
+      "content": "Going alright\u00f3\u00be\u0087\u008c",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Macie Kercsmar",
+      "timestamp_ms": 1356143089495,
+      "content": "Sup kid havent heard much from u so how's it goi.g?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1356141493317,
+      "content": "Hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1335628238509,
+      "content": "Hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Macie Kercsmar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/maciekercsmar_0-tlg-jbja"
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1600202898727,
+      "content": "Hello how have you been doing?hope you are safe out there?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/facebookuser_odj9-7ayyg"
+}

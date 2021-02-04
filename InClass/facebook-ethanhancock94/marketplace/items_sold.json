@@ -1,0 +1,20 @@
+{
+  "items_selling": [
+    {
+      "title": "Power Beats 3 Wireless",
+      "price": "$175",
+      "seller": "Ethan Hancock",
+      "created_timestamp": 1533502605,
+      "updated_timestamp": 1533502605,
+      "category": "Electronics & Computers",
+      "marketplace": "United States Marketplace",
+      "location": {
+        "coordinate": {
+          "latitude": 40.8001,
+          "longitude": -81.51615
+        }
+      },
+      "description": "Brand new, unopened PowerBeats3 POP Indigo"
+    }
+  ]
+}

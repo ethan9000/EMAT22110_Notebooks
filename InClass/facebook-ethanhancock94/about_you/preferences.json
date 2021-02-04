@@ -1,0 +1,142 @@
+{
+  "preferences": [
+    {
+      "name": "Page Notifications",
+      "description": "Chat notifications you've dismissed from Pages you visit",
+      "entries": [
+        {
+          "timestamp": 1583036649,
+          "data": {
+            "name": "Friends of Canton Central Catholic",
+            "uri": "https://www.facebook.com/cchsweb/"
+          }
+        },
+        {
+          "timestamp": 1580874388,
+          "data": {
+            "name": "Victor Colaianni, Member, Northwest Local Board of Education",
+            "uri": "https://www.facebook.com/victorcolynwboe/"
+          }
+        },
+        {
+          "timestamp": 1580088460,
+          "data": {
+            "name": "Wabash Lanes",
+            "uri": "https://www.facebook.com/wabashlanes/"
+          }
+        },
+        {
+          "timestamp": 1568663068,
+          "data": {
+            "name": "TT Nails Spa",
+            "uri": "https://www.facebook.com/TT-Nails-Spa-1516023535286828/"
+          }
+        },
+        {
+          "timestamp": 1550168154,
+          "data": {
+            "name": "Parenting Village - Rochester, NY",
+            "uri": "https://www.facebook.com/ParentingVillageRochester/"
+          }
+        },
+        {
+          "timestamp": 1548981158,
+          "data": {
+            "name": "Kaleidoscope ME",
+            "uri": "https://www.facebook.com/kaleidoscopeMEevents/"
+          }
+        },
+        {
+          "timestamp": 1546034885,
+          "data": {
+            "name": "Pall's Balls",
+            "uri": "https://www.facebook.com/PallsBalls/"
+          }
+        },
+        {
+          "timestamp": 1546030277,
+          "data": {
+            "name": "Camp Tuscazoar Foundation Inc",
+            "uri": "https://www.facebook.com/tuscazoar.org/"
+          }
+        },
+        {
+          "timestamp": 1545958439,
+          "data": {
+            "name": "Tirdy Works",
+            "uri": "https://www.facebook.com/tirdyworks/"
+          }
+        },
+        {
+          "timestamp": 1536940147,
+          "data": {
+            "name": "Aquinas Theatre",
+            "uri": "https://www.facebook.com/Aquinas-Theatre-133934880011888/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Language Settings",
+      "description": "Your preferred language settings",
+      "children": [
+        {
+          "name": "Selected Language",
+          "description": "The language you've chosen for your Facebook experience",
+          "entries": [
+            {
+              "data": {
+                "value": "en_US"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Locale Changes",
+          "description": "The history of changes to your locale setting",
+          "entries": [
+            {
+              "timestamp": 1309442156,
+              "data": {
+                "name": "en_US"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Preferred Language for Videos",
+      "description": "The preferred language for videos as determined by videos you've previously viewed",
+      "entries": [
+        {
+          "data": {
+            "value": "en"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Languages You May Know",
+      "description": "Languages you may know as determined by your activity on Facebook",
+      "entries": [
+        {
+          "data": {
+            "value": "en"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Preferred Language",
+      "description": "Your preferred languages as determined by your activity on Facebook",
+      "entries": [
+        {
+          "data": {
+            "value": "en_XX"
+          }
+        }
+      ]
+    }
+  ]
+}

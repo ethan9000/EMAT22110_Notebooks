@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Ann McCartney McGrath"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1322159790324,
+      "content": "we need to get rid of ryan",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ann McCartney McGrath",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/annmccartneymcgrath_zjaijg5dxw"
+}

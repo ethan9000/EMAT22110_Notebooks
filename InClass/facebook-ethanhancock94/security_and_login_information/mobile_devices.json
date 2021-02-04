@@ -1,0 +1,138 @@
+{
+  "devices": [
+    {
+      "type": "iPhone13,3",
+      "os": "iOS 14.3",
+      "update_time": 1611556641,
+      "redact_tokens": [
+        "49d0********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1611428117,
+          "creation_time": 1611382318,
+          "app_version": "301.0.0.58.475",
+          "locale": "en_US",
+          "os_version": "14.3",
+          "token": "49d0********************",
+          "device_id": "95A5C676-7700-43B4-B471-92089E4B740B"
+        }
+      ],
+      "family_device_id": "95A5C676-7700-43B4-B471-92089E4B740B",
+      "device_locale": "en_US"
+    },
+    {
+      "type": "iPad8,1",
+      "os": "iPhone OS 14.2",
+      "update_time": 1611021917,
+      "advertiser_id": "6ea222b4-369a-4177-9273-80e38693948d",
+      "redact_tokens": [
+        "b8e1********************",
+        "83ad********************",
+        "6091********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1611021916,
+          "creation_time": 1582162696,
+          "app_version": "300.0.0.57.128",
+          "locale": "en_US",
+          "os_version": "14.2",
+          "token": "b8e1********************",
+          "device_id": "99D65F09-A7E0-42BC-ABA6-0C6C57D761A7"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1607631795,
+          "creation_time": 1607631795,
+          "app_version": "291.2.0.30.111",
+          "locale": "en_US",
+          "os_version": "14.2",
+          "token": "83ad********************",
+          "device_id": "99D65F09-A7E0-42BC-ABA6-0C6C57D761A7"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1607631795,
+          "creation_time": 1607631795,
+          "app_version": "291.2.0.30.111",
+          "locale": "en_US",
+          "os_version": "14.2",
+          "token": "6091********************",
+          "device_id": "99D65F09-A7E0-42BC-ABA6-0C6C57D761A7"
+        }
+      ],
+      "family_device_id": "99D65F09-A7E0-42BC-ABA6-0C6C57D761A7",
+      "device_locale": "en_US"
+    },
+    {
+      "type": "iPhone12,3",
+      "os": "iOS 14.2",
+      "update_time": 1610413759,
+      "redact_tokens": [
+        "72a9********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1609893007,
+          "creation_time": 1604296151,
+          "app_version": "300.0.0.57.128",
+          "locale": "en_US",
+          "os_version": "14.2",
+          "token": "72a9********************",
+          "device_id": "3AEDD543-F59E-44E8-81FB-0AB6B5124D20"
+        }
+      ],
+      "family_device_id": "3AEDD543-F59E-44E8-81FB-0AB6B5124D20",
+      "device_locale": "en_US"
+    },
+    {
+      "type": "iPhone12,3",
+      "os": "iPhone OS 14.2",
+      "update_time": 1607130546,
+      "advertiser_id": "3f2b01b2-f27a-4d88-992a-9dc45ce9dbb0",
+      "redact_tokens": [
+        "1d59********************",
+        "f121********************",
+        "b814********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1607477956,
+          "creation_time": 1589130002,
+          "app_version": "291.2.0.30.111",
+          "locale": "en_US",
+          "os_version": "14.2",
+          "token": "1d59********************",
+          "device_id": "DBC16288-A0C8-462F-B1BC-9DF93880BB55"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1607477956,
+          "creation_time": 1589130002,
+          "app_version": "291.2.0.30.111",
+          "locale": "en_US",
+          "os_version": "14.2",
+          "token": "f121********************",
+          "device_id": "DBC16288-A0C8-462F-B1BC-9DF93880BB55"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1588506466,
+          "creation_time": 1580342788,
+          "app_version": "268.0.0.59.117",
+          "locale": "en_US",
+          "os_version": "13.3.1",
+          "token": "b814********************",
+          "device_id": "DBC16288-A0C8-462F-B1BC-9DF93880BB55"
+        }
+      ],
+      "family_device_id": "",
+      "device_locale": "en"
+    }
+  ]
+}

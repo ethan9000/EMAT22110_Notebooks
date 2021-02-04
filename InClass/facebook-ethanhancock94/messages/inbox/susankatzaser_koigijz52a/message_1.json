@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Susan Katz Aser"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Susan Katz Aser",
+      "timestamp_ms": 1550030227550,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Susan Katz Aser",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/susankatzaser_koigijz52a"
+}

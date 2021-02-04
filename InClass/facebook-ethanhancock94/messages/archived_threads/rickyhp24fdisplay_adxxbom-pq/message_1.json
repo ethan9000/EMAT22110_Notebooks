@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Ricky J Vilaykeo"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589990199428,
+      "content": "Yes they both are available!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky J Vilaykeo",
+      "timestamp_ms": 1589981827198,
+      "content": "Is this still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky J Vilaykeo",
+      "timestamp_ms": 1589981825937,
+      "content": "Ricky changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky J Vilaykeo",
+      "timestamp_ms": 1589981825641,
+      "content": "Ricky named the group Ricky \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ricky \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/rickyhp24fdisplay_adxxbom-pq"
+}

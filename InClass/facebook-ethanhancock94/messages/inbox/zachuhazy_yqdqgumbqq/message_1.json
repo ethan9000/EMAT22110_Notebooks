@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Zach Uhazy"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zach Uhazy",
+      "timestamp_ms": 1560729612564,
+      "content": "You and Zach Uhazy are celebrating 3 years of friendship on Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zach Uhazy",
+      "timestamp_ms": 1560658626038,
+      "content": "You and Zach Uhazy are celebrating 3 years of friendship on Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Zach Uhazy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/zachuhazy_yqdqgumbqq"
+}

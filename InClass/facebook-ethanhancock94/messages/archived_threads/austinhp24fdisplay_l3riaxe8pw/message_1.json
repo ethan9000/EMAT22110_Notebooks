@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Austin Niswander"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590970333452,
+      "content": "Almost there",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590970156021,
+      "content": "I\u00e2\u0080\u0099m here by Macy\u00e2\u0080\u0099s",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590967300172,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590967263017,
+      "content": "ETA: 8:12",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590962358997,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590961768568,
+      "content": "I have a blue Mazda suv",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590960782225,
+      "content": "Ok just let me know what color and type of car you\u00e2\u0080\u0099re in. Mine\u00e2\u0080\u0099s a white Toyota suv",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960708263,
+      "content": "Perfect!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590960689594,
+      "content": "Sounds good does the mall parking lot work by the Macy\u00e2\u0080\u0099s",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960622981,
+      "content": "I live in North Canton and I\u00e2\u0080\u0099m heading back from Columbus at 6. How about 8? Belden village?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590960564931,
+      "content": "What time and where do you want to meet?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590960546628,
+      "content": "Yeah they\u00e2\u0080\u0099re exactly the same",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960530887,
+      "content": "Just the one please. Are they both the same?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590960497560,
+      "content": "Yeah do you want just the one or both of them",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960321599,
+      "content": "That works for me. Can we meet tonight?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590960247646,
+      "content": "Still available, how about $120",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960213871,
+      "content": "Austin offered you $80.00",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960201669,
+      "content": "Is this still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960200380,
+      "content": "Austin changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Austin Niswander",
+      "timestamp_ms": 1590960199997,
+      "content": "Austin named the group Austin \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Austin \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/austinhp24fdisplay_l3riaxe8pw"
+}

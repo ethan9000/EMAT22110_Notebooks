@@ -1,0 +1,84 @@
+{
+  "poll_votes": [
+    {
+      "timestamp": 1590606748,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Boy",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Ethan Hancock voted on Animal Planet's poll."
+    },
+    {
+      "timestamp": 1585410836,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "I2",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Ethan Hancock voted on West Point - The U.S. Military Academy's poll."
+    },
+    {
+      "timestamp": 1555027100,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Blue Dress",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Ethan Hancock voted on Susan Katz Aser's poll."
+    },
+    {
+      "timestamp": 1551208705,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Tux 1",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Ethan Hancock voted on Kaleidoscope ME's poll."
+    }
+  ]
+}

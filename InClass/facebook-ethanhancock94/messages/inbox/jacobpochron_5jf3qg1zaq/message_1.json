@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Jacob Pochron"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacob Pochron",
+      "timestamp_ms": 1545100587302,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jacob Pochron",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jacobpochron_5jf3qg1zaq"
+}

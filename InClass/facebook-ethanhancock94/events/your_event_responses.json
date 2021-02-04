@@ -1,0 +1,31 @@
+{
+  "event_responses": {
+    "events_joined": [
+      {
+        "name": "Ray & Marissa's Engagement Party!",
+        "start_timestamp": 1564866000,
+        "end_timestamp": 1564880400
+      },
+      {
+        "name": "Just Folks - Ten Years of 1975 and WALL\\Therapy Curation",
+        "start_timestamp": 1551481200,
+        "end_timestamp": 1551492000
+      },
+      {
+        "name": "Natalie's Launch Party",
+        "start_timestamp": 1530225060,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Briana's Graduation Party",
+        "start_timestamp": 1464462000,
+        "end_timestamp": 1464480000
+      },
+      {
+        "name": "SPJ ALUMNI Mass and Dedication",
+        "start_timestamp": 1444579200,
+        "end_timestamp": 0
+      }
+    ]
+  }
+}

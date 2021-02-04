@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Melvin Marlow"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melvin Marlow",
+      "timestamp_ms": 1577720647170,
+      "content": "Melvin is waving at you!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Melvin Marlow",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/melvinmarlow_q5_dpwjdcw"
+}

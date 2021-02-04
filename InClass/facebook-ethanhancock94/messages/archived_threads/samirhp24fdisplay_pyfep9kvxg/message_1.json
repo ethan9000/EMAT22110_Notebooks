@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Samir Rafsan Chowdhury"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589386785508,
+      "content": "Yes they are",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samir Rafsan Chowdhury",
+      "timestamp_ms": 1589386765003,
+      "content": "Samir is waiting for your response.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samir Rafsan Chowdhury",
+      "timestamp_ms": 1589363737512,
+      "content": "Is this still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samir Rafsan Chowdhury",
+      "timestamp_ms": 1589363736221,
+      "content": "Samir changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samir Rafsan Chowdhury",
+      "timestamp_ms": 1589363735714,
+      "content": "Samir named the group Samir \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Samir \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/samirhp24fdisplay_pyfep9kvxg"
+}

@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Hancock"
+    },
+    {
+      "name": "Mark Lazarchuk"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590175345779,
+      "photos": [
+        {
+          "uri": "messages/inbox/markhp24fdisplay_yb0aqy7j6a/photos/99158388_1111833519203947_692261269696151552_n_1111833515870614.jpg",
+          "creation_timestamp": 1590175344
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590169403485,
+      "content": "Ok thanks",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590168109160,
+      "content": "Sure, I\u00e2\u0080\u0099ll send it over in a little bit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590168055233,
+      "content": "If you have time",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590168048439,
+      "content": "Can you send over the serial so i can check?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590168003603,
+      "content": "They\u00e2\u0080\u0099re just under a year old so I think the warranty is through July but I\u00e2\u0080\u0099m not sure of the details",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590167913657,
+      "content": "Are they still under warranty do you know?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590167907787,
+      "content": "Oh nice",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1590167899806,
+      "content": "Yes there are 2 available",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590167872760,
+      "content": "Is this still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590167871427,
+      "content": "Mark changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mark Lazarchuk",
+      "timestamp_ms": 1590167871028,
+      "content": "Mark named the group Mark \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mark \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/markhp24fdisplay_yb0aqy7j6a"
+}

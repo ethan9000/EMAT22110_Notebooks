@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Efiada Nyame"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589140839996,
+      "content": "$150 is as low as I can go",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Efiada Nyame",
+      "timestamp_ms": 1589135010189,
+      "content": "Can you do $120",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589129767729,
+      "content": "Yep, both of them are still available.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Efiada Nyame",
+      "timestamp_ms": 1589128731199,
+      "content": "Efiada is waiting for your response.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Efiada Nyame",
+      "timestamp_ms": 1589106505804,
+      "content": "Is this still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Efiada Nyame",
+      "timestamp_ms": 1589106504367,
+      "content": "Efiada changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Efiada Nyame",
+      "timestamp_ms": 1589106503894,
+      "content": "Efiada named the group Efiada \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Efiada \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/efiadahp24fdisplay_bnsz5twtaa"
+}

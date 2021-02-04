@@ -1,0 +1,422 @@
+{
+  "participants": [
+    {
+      "name": "Carrie Alexander Spina"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366630469,
+      "content": "thanks",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366628924,
+      "content": "Don't feel bad, that is a huge commitment to take on especially with Drake doing so well in speech. I'm sure everything will work out in the end.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366599348,
+      "content": "I love what you wrote",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366567104,
+      "content": "Yeah Kristi was upset,  I feel bad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366546361,
+      "content": "I feel so bad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366532555,
+      "content": "Ethan I know krist is upset with me, but it's just too much.  I thought I could pull it off ...but it's just to much. I'm going to be traveling alot with drake for speech and college visits plus all my Tusky stuff.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366507575,
+      "content": "Ok that's still sad but I understand. I hope everything works out with Lisa then",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366445082,
+      "content": "She's amazing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366439735,
+      "content": "Lisa knight is going to try to make it work she's the st Paul's director",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366415037,
+      "content": "I told Kristi with tmus being Drakes senior year I just can't take this project on",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366392367,
+      "content": "I was really looking forward to coming home and seeing those shows every year",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366372670,
+      "content": "Really? Is someone else taking it over?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366346009,
+      "content": "Thank you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532366337907,
+      "content": "Love it! Makes me sad I can't do the new musical theatre program:(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366175413,
+      "content": "Hopefully that's enough, feel free to pull anything out of that as needed.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1532366144100,
+      "content": "Sure! Start to Strike was a game changer for me and for my school's performing arts program. It gave me the opportunity to direct a full scale production that reignited my love for theater in a completely new and different way. The Start to Strike program was the highlight of my senior year and of my high school acting career.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1532365353425,
+      "content": "Can you write a quote to tell me what you thought ..your experience with start to strike was like?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1523374006593,
+      "content": "Yeah no problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1523373986630,
+      "content": "Hello friend! I hope you're doing well! I have a new phone but lost all my contacts.  Can you have serena text me? You too",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521392041634,
+      "content": "I am so grateful for this opportunity, this has been such an extraordinary experience!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521392005888,
+      "content": "I can't wait to see what you do with your future Ethan, I hope you enjoyed this oppertuntiy! we are so proud",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521391974064,
+      "content": "But if Mr scholl talks to kids like he talked to you that day! he needs help! you can't speak to kids like that and break there spirts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521391965267,
+      "content": "Yeah, that situation wasn\u00e2\u0080\u0099t the best but it\u00e2\u0080\u0099ll all work out",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521391932864,
+      "content": "I just wish Mr gravo would have spoke to them first before announcing but Kristi and I had no control over that :( I really felt bad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521391851703,
+      "content": "There are so many kids excited for this new program, the only kids upset with it are graduating this year",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521391753877,
+      "content": "I hope so, I hope Taylor and I can help make a difference. I know some of the kids are upset but they weren't doing musicals anyway, they will still have drama club this is all extra!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521391686552,
+      "content": "It has been very low the last couple years, I\u00e2\u0080\u0099m sure this is the start of what will become sold out productions",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521391658658,
+      "content": "hopefully this will change things for the future :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521391640289,
+      "content": "That's great I'm glad you kids got attendance to your production. I hear in the past the attendance was low",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521391590198,
+      "content": "And I was surprised, the audience was just as big as Friday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521391564657,
+      "content": "Yeah everyone was really happy and it went so well",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521391532148,
+      "content": "was everyone happy with the play?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521331187123,
+      "content": "Really well it\u00e2\u0080\u0099s the final number right now",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521331152093,
+      "content": "hows it going",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521324827118,
+      "content": "I will",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521324803499,
+      "content": "make sure serena knows Drakes coming still",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521324691671,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521324563096,
+      "content": "make sure Kristi is ok with the video and the cost - the kids could each pay $20 for the video and it will cover it.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521324138384,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521324132147,
+      "content": "Oh ok I didn\u00e2\u0080\u0099t know that but I\u00e2\u0080\u0099ll talk to them",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521324111072,
+      "content": "the kids could all buy a video to cover the cost",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521324094052,
+      "content": "But are they charging you guys $$$ I think its $300 to video",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521324066278,
+      "content": "Chris brought his camera to tape it for us, was there anything else?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521324005445,
+      "content": "yes they can take that stuff",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521323995981,
+      "content": "Could you ask mary and Kristi about this video idea.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521323974642,
+      "content": "Ok do you want them to take the lion king stuff too?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521323938798,
+      "content": "Drake and alyssa are still coming-make sure theytake my microphones home",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521323352465,
+      "content": "I will!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521323235764,
+      "content": "tell serena, jerry and anna to break a leg! and I'm sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521317124046,
+      "content": "Kristie said it\u00e2\u0080\u0099s fine and she\u00e2\u0080\u0099ll be there, so I hope you get better quickly",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521316090100,
+      "content": "I feel so bad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521316080212,
+      "content": "Yeah I\u00e2\u0080\u0099ll text her right now",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521316053426,
+      "content": "will you ask Kristi if its ok if I stay home, this fever is kicking my but",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521315797328,
+      "content": "Thank you so much!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521315744059,
+      "content": "todays been the worse of it , I went to the dr so hopefully I'll be better soon. I'm so proud of you Ethan and glad I choose you to be the director! you have a bright future ahead of you! we will see how I feel in the next hour but I don't think it looks good",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521315608110,
+      "content": "You should just stay home and rest so you can get better. I completely understand, you don\u00e2\u0080\u0099t need to feel bad it you miss tonight and I don\u00e2\u0080\u0099t worry about selling the flowers I\u00e2\u0080\u0099ll make sure there\u00e2\u0080\u0099s someone to do it. I hope you feel better soon!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1521315471214,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carrie Alexander Spina",
+      "timestamp_ms": 1521315456878,
+      "content": "Ethan I'm so sick...I have a fever and I feel jusgt terrible. I'm going to go to sleep and try to wake up at five and see how I feel. I have never missed a show and will feel so bad if I cant come. I would need Kristi to sell flowers...I went to the Dr. I have bronchitits and a sinus infection",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carrie Alexander Spina",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carriealexanderspina_o7ox9adfbw"
+}

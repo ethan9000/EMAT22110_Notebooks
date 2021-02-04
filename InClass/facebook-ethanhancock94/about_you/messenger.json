@@ -1,0 +1,37 @@
+{
+  "messenger": {
+    "secret_conversations": {
+      "has_sent_message": false,
+      "has_received_message": false,
+      "tincan_devices": [
+        
+      ]
+    },
+    "autofill_information": {
+      "CITY": [
+        "Massillon"
+      ],
+      "STATE": [
+        "OH"
+      ],
+      "COUNTRY": [
+        "US"
+      ],
+      "EMAIL": [
+        "elephant9000@gmail.com"
+      ],
+      "PHONE": [
+        "+13302687385"
+      ],
+      "JOB_TITLE": [
+        "Chief Operating Officer"
+      ],
+      "COMPANY_NAME": [
+        "Kaleidoscope ME"
+      ],
+      "GENDER": [
+        "male"
+      ]
+    }
+  }
+}

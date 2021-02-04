@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1357336631826,
+      "content": "whats up?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1357336567428,
+      "content": "Hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1357336529580,
+      "content": "hey im with emily at the library right now:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/facebookuser_rancl8w0gq"
+}

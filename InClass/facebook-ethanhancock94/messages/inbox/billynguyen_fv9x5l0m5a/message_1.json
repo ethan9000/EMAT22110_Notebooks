@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Billy Nguyen"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Billy Nguyen",
+      "timestamp_ms": 1548105276793,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Billy Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/billynguyen_fv9x5l0m5a"
+}

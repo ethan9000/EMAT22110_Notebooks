@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Hancock"
+    },
+    {
+      "name": "Dillon Dwyer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1539123557414,
+      "content": "You marked the listing as Sold.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dillon Dwyer",
+      "timestamp_ms": 1539111884891,
+      "content": "Is this item still available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dillon Dwyer",
+      "timestamp_ms": 1539111884137,
+      "content": "Dillon changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dillon Dwyer",
+      "timestamp_ms": 1539111882698,
+      "content": "Dillon named the group Dillon \u00c2\u00b7 Power Beats 3 Wireless.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dillon \u00c2\u00b7 Power Beats 3 Wireless",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/dillonpowerbeats3wireless_rkcws4dwvq"
+}

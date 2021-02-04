@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Kim Ngo"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1536169073712,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kim Ngo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kimngo_q222ff0x0w"
+}

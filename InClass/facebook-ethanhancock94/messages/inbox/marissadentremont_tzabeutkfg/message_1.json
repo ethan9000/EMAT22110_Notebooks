@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Marissa D'Entremont"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marissa D'Entremont",
+      "timestamp_ms": 1542469268410,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marissa D'Entremont",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marissadentremont_tzabeutkfg"
+}

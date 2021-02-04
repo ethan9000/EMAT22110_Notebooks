@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Ricky Baker"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricky Baker",
+      "timestamp_ms": 1589843141841,
+      "content": "Okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589840519062,
+      "content": "Sure I\u00e2\u0080\u0099m free before 3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky Baker",
+      "timestamp_ms": 1589840260694,
+      "content": "Tomorrow?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589839430178,
+      "content": "Sure when can you pick up?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky Baker",
+      "timestamp_ms": 1589839270742,
+      "content": "$125? And I\u00e2\u0080\u0099ll take it off your hands",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589839132043,
+      "content": "If you buy both I\u00e2\u0080\u0099ll $115 a piece but for just one $140 is the lowest.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky Baker",
+      "timestamp_ms": 1589839002014,
+      "content": "115$??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky Baker",
+      "timestamp_ms": 1589839000646,
+      "content": "Ricky changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ricky Baker",
+      "timestamp_ms": 1589839000169,
+      "content": "Ricky named the group Ricky \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ricky \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/rickyhp24fdisplay_douwn_ovng"
+}

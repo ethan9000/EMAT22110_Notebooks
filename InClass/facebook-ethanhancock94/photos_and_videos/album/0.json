@@ -1,0 +1,57 @@
+{
+  "name": "Cover Photos",
+  "photos": [
+    {
+      "uri": "photos_and_videos/CoverPhotos_h0YYRDT-jw/994148_439062689522417_1806253582_n_439062689522417.jpg",
+      "creation_timestamp": 1371088126,
+      "media_metadata": {
+        "photo_metadata": {
+          "upload_ip": "24.140.160.156"
+        }
+      },
+      "title": "Cover Photos"
+    },
+    {
+      "uri": "photos_and_videos/CoverPhotos_h0YYRDT-jw/13240575_978049105623770_356113851653896611_n_978049105623770.jpg",
+      "creation_timestamp": 1463540580,
+      "media_metadata": {
+        "photo_metadata": {
+          "upload_ip": "24.140.173.25"
+        }
+      },
+      "title": "Cover Photos"
+    },
+    {
+      "uri": "photos_and_videos/CoverPhotos_h0YYRDT-jw/24174196_1479484482146894_3514819709063853967_n_1479484482146894.jpg",
+      "creation_timestamp": 1511889168,
+      "media_metadata": {
+        "photo_metadata": {
+          "upload_ip": "98.158.184.54"
+        }
+      },
+      "title": "Cover Photos"
+    },
+    {
+      "uri": "photos_and_videos/CoverPhotos_h0YYRDT-jw/23915967_1479484952146847_2939438976422401829_n_1479484952146847.jpg",
+      "creation_timestamp": 1511889205,
+      "media_metadata": {
+        "photo_metadata": {
+          "upload_ip": "98.158.184.54"
+        }
+      },
+      "title": "Cover Photos"
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos_and_videos/CoverPhotos_h0YYRDT-jw/994148_439062689522417_1806253582_n_439062689522417.jpg",
+    "creation_timestamp": 1371088126,
+    "media_metadata": {
+      "photo_metadata": {
+        "upload_ip": "24.140.160.156"
+      }
+    },
+    "title": "Cover Photos"
+  },
+  "last_modified_timestamp": 1511889206,
+  "description": ""
+}

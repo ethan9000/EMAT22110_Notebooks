@@ -1,0 +1,20 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1537108133350,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fg97pnvbjg"
+}

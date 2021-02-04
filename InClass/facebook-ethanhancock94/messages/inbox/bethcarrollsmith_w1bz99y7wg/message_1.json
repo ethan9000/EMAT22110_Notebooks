@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Beth Carroll-Smith"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beth Carroll-Smith",
+      "timestamp_ms": 1554474174816,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Beth Carroll-Smith",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/bethcarrollsmith_w1bz99y7wg"
+}

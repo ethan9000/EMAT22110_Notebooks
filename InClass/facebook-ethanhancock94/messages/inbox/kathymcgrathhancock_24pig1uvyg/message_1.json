@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Kathy McGrath Hancock"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kathy McGrath Hancock",
+      "timestamp_ms": 1580874062936,
+      "content": "Kathy sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/groups/879104315491323/permalink/2818911068177295/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kathy McGrath Hancock",
+      "timestamp_ms": 1559342553230,
+      "content": "You and Kathy McGrath Hancock are celebrating 9 years of friendship on Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kathy McGrath Hancock",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kathymcgrathhancock_24pig1uvyg"
+}

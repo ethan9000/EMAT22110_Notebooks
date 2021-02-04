@@ -1,0 +1,16 @@
+{
+  "payments": {
+    "preferred_currency": "USD",
+    "payments": [
+      {
+        "created_timestamp": 1390754084,
+        "amount": "25.00",
+        "currency": "USD",
+        "sender": "",
+        "type": "Payment",
+        "payment_method": "VISA 428762-XX-XXXX-5271",
+        "ip": "24.140.123.87"
+      }
+    ]
+  }
+}

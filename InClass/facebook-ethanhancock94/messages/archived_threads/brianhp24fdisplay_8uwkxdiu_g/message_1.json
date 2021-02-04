@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Brian Snow McGrew"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589153099083,
+      "content": "How about $150",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Brian Snow McGrew",
+      "timestamp_ms": 1589152888718,
+      "content": "I'll pick one up now if you will take $130",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Brian Snow McGrew",
+      "timestamp_ms": 1589152886595,
+      "content": "Brian changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Brian Snow McGrew",
+      "timestamp_ms": 1589152886182,
+      "content": "Brian named the group Brian \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Brian \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/brianhp24fdisplay_8uwkxdiu_g"
+}

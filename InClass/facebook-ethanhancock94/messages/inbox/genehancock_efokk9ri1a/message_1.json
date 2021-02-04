@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Gene Hancock"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gene Hancock",
+      "timestamp_ms": 1576767404748,
+      "content": "Pauz53: Watch this amazing video...",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gene Hancock",
+      "timestamp_ms": 1544660701402,
+      "content": "Gene sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/americahonorsandremembers/posts/1939056609463823"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Gene Hancock",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/genehancock_efokk9ri1a"
+}

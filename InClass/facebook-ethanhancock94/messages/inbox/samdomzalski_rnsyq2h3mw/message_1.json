@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Sam Domzalski"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1538687004957,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sam Domzalski",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/samdomzalski_rnsyq2h3mw"
+}

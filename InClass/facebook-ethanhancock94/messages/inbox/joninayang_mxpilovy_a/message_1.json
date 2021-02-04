@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Jonina Yang"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1551902177125,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonina Yang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/joninayang_mxpilovy_a"
+}

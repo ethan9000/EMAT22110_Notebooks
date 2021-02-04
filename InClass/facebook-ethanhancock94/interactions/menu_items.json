@@ -1,0 +1,66 @@
+{
+  "menu_items": [
+    {
+      "name": "",
+      "description": "",
+      "entries": [
+        {
+          "timestamp": 1316638656,
+          "data": {
+            "name": "News Feed",
+            "uri": "https://www.facebook.com/?sk=nf",
+            "num_clicks": "1"
+          }
+        },
+        {
+          "timestamp": 1316638651,
+          "data": {
+            "name": "Welcome",
+            "uri": "https://www.facebook.com/?sk=welcome",
+            "num_clicks": "1"
+          }
+        },
+        {
+          "timestamp": 1316378832,
+          "data": {
+            "name": "Messenger",
+            "uri": "https://www.facebook.com/messages/",
+            "num_clicks": "2"
+          }
+        },
+        {
+          "timestamp": 1313201609,
+          "data": {
+            "name": "Friends",
+            "uri": "https://www.facebook.com/?sk=ff",
+            "num_clicks": "2"
+          }
+        },
+        {
+          "timestamp": 1309559839,
+          "data": {
+            "name": "Questions",
+            "uri": "https://apps.facebook.com/guestions/",
+            "num_clicks": "1"
+          }
+        },
+        {
+          "timestamp": 1309559827,
+          "data": {
+            "name": "Games",
+            "uri": "https://www.facebook.com/?sk=apps",
+            "num_clicks": "2"
+          }
+        },
+        {
+          "timestamp": 1309559782,
+          "data": {
+            "name": "Games",
+            "uri": "https://www.facebook.com/games/?redirect_to_gameroom=1",
+            "num_clicks": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "recognized_devices": [
+    {
+      "name": "Safari on Mac OS X",
+      "created_timestamp": 1611615245,
+      "updated_timestamp": 1611615247,
+      "ip_address": "65.185.72.83",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/301.0.0.58.475;FBBV/267478587;FBDV/iPhone13,3;FBMD/iPhone;FBSN/iOS;FBSV/14.3;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/269709794]",
+      "datr_cookie": ""
+    },
+    {
+      "name": "Facebook for iPhone",
+      "created_timestamp": 1611382314,
+      "ip_address": "65.185.72.83",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/301.0.0.58.475;FBBV/267478587;FBDV/iPhone13,3;FBMD/iPhone;FBSN/iOS;FBSV/14.3;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/269210665]",
+      "datr_cookie": ""
+    },
+    {
+      "name": "Facebook for iOS on iOS",
+      "created_timestamp": 1611038808,
+      "ip_address": "65.185.72.83",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/301.0.0.58.475;FBBV/267478587;FBDV/iPhone13,3;FBMD/iPhone;FBSN/iOS;FBSV/14.3;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/268664146]",
+      "datr_cookie": ""
+    }
+  ]
+}

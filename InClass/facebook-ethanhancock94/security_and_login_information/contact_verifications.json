@@ -1,0 +1,14 @@
+{
+  "contact_verifications": [
+    {
+      "contact": "elephant9000@gmail.com",
+      "contact_type": 2,
+      "verification_time": 1309720827
+    },
+    {
+      "contact": "+13302687385",
+      "contact_type": 1,
+      "verification_time": 1417663920
+    }
+  ]
+}

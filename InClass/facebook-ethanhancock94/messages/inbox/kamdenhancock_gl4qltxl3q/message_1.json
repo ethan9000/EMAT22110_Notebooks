@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Kamden Hancock"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kamden Hancock",
+      "timestamp_ms": 1576678194254,
+      "content": "Kamden sent an attachment.",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kamden Hancock",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kamdenhancock_gl4qltxl3q"
+}

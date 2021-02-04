@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Justin Tebbutt"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Tebbutt",
+      "timestamp_ms": 1538354581744,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Justin Tebbutt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/justintebbutt_wm-bu7yjgg"
+}

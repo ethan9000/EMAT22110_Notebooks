@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Carmen Tang"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carmen Tang",
+      "timestamp_ms": 1568340113439,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carmen Tang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carmentang_sfg3snfoqa"
+}

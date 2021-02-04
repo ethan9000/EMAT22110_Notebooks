@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nicholas Maio"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicholas Maio",
+      "timestamp_ms": 1562733254748,
+      "content": "You and Nicholas Maio are celebrating 4 years of friendship on Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Maio",
+      "timestamp_ms": 1499666629827,
+      "content": "You are now connected on Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nicholas Maio",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nicholasmaio_qwynucryag"
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Hatfield"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1567259719983,
+      "content": "Oh I\u00e2\u0080\u0099m seeing that in Rochester you should come up and see it with us",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Hatfield",
+      "timestamp_ms": 1567194418222,
+      "content": "Natalie sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/TheBookOfMormonOnBroadway/videos/10107552127887094/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Natalie Hatfield",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nataliehatfield_dcauvbaqbg"
+}

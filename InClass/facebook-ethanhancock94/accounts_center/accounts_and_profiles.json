@@ -1,0 +1,21 @@
+{
+  "linked_accounts": [
+    {
+      "service_name": "Instagram",
+      "native_app_id": 256837446,
+      "username": "ethan.hancock7",
+      "email": "elephant9000@gmail.com",
+      "name": "Ethan Hancock",
+      "linked_time": 1603381744
+    },
+    {
+      "service_name": "Facebook",
+      "native_app_id": 100002560704898,
+      "username": "ethan.hancock.94",
+      "email": "elephant9000@gmail.com",
+      "phone_number": "+13302687385",
+      "name": "Ethan Hancock",
+      "linked_time": 1603381744
+    }
+  ]
+}

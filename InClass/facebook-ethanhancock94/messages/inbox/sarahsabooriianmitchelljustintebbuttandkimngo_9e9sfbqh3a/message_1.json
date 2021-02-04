@@ -1,0 +1,193 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Hancock"
+    },
+    {
+      "name": "Sarah Saboori"
+    },
+    {
+      "name": "Ian Mitchell"
+    },
+    {
+      "name": "Justin Tebbutt"
+    },
+    {
+      "name": "Kim Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602661380,
+      "content": "tytyty",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547602651544,
+      "content": "See you then",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602644528,
+      "content": "kk!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547602637229,
+      "content": "9 at Sol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602633567,
+      "content": "lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602632462,
+      "content": "golisano",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602628511,
+      "content": "idc anywhere",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Saboori",
+      "timestamp_ms": 1547602627402,
+      "content": "where are you?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602618561,
+      "content": "okay when should we go, where to meet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547602617238,
+      "content": "Where you want to meet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602607329,
+      "content": "yes lol but my phone is ded",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ian Mitchell",
+      "timestamp_ms": 1547602606010,
+      "content": "Lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547602603252,
+      "content": "Yeah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Saboori",
+      "timestamp_ms": 1547602600356,
+      "content": "Kim?! Are you okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602597714,
+      "content": "okie i just got done with class, can you guys still go to the airport ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547602592307,
+      "content": "What\u00e2\u0080\u0099s up",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602582200,
+      "content": "oh yay ethan alright",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1547602580921,
+      "content": "Oh no",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Saboori",
+      "timestamp_ms": 1547602578035,
+      "content": "do you need?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Saboori",
+      "timestamp_ms": 1547602574059,
+      "content": "what",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602571418,
+      "content": "my phone is ded",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602566340,
+      "content": "help if any of u can see this message",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602558654,
+      "content": "SOS",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Ngo",
+      "timestamp_ms": 1547602555382,
+      "content": "Kim created the group.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sarah Saboori, Ian Mitchell, Justin Tebbutt and Kim Ngo",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/sarahsabooriianmitchelljustintebbuttandkimngo_9e9sfbqh3a"
+}

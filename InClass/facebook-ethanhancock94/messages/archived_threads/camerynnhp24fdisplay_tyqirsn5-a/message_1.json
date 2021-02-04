@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Camerynn Bloom"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1589207204516,
+      "content": "Yes there are two available",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Camerynn Bloom",
+      "timestamp_ms": 1589205049288,
+      "content": "Is this available?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Camerynn Bloom",
+      "timestamp_ms": 1589205048069,
+      "content": "Camerynn changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Camerynn Bloom",
+      "timestamp_ms": 1589205047579,
+      "content": "Camerynn named the group Camerynn \u00c2\u00b7 HP 24f Display.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Camerynn \u00c2\u00b7 HP 24f Display",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/camerynnhp24fdisplay_tyqirsn5-a"
+}
