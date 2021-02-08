@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Serena (:"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1491597272538,
+      "content": "",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Serena (:",
+      "timestamp_ms": 1491596317983,
+      "content": "ME",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1491595977573,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Facebook User"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/BQg5OdsgsqX/",
+        "share_text": "What was the subject?",
+        "original_content_owner": "teenagerpost2110"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Serena (: and Facebook User",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/serenaandfacebookuser_5xafgzrhew"
+}

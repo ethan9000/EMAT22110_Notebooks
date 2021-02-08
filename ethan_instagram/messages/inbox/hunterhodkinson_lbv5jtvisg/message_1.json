@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Hunter Hodkinson"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1500419159378,
+      "content": "Aww thanks",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hunter Hodkinson",
+      "timestamp_ms": 1500418927275,
+      "content": "Wtf you are so cute. And I love this denim hurricane\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hunter Hodkinson",
+      "timestamp_ms": 1500418927275,
+      "share": {
+        "link": "https://www.instagram.com/p/BTEbLHNFFOM/",
+        "share_text": "",
+        "original_content_owner": "ethan.hancock7"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hunter Hodkinson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hunterhodkinson_lbv5jtvisg"
+}

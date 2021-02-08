@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Rose"
+    },
+    {
+      "name": "Jack McDowall"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1553660398363,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Rose",
+      "timestamp_ms": 1553659772037,
+      "content": "Ok is this real?! Apparently from that chimpanzee show or whatever I can\u00e2\u0080\u0099t tell \u00f0\u009f\u0098\u0086",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Rose",
+      "timestamp_ms": 1553659771706,
+      "share": {
+        "link": "https://www.instagram.com/p/BvaFWlFgN5N/",
+        "share_text": "Lmao, the walk had me dying",
+        "original_content_owner": "what.tv"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sarah Rose and Jack McDowall",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/sarahroseandjackmcdowall_jyhbstyh5q"
+}

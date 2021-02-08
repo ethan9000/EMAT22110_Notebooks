@@ -1,0 +1,68 @@
+{
+  "devices_camera": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Device ID": {
+          "href": "",
+          "value": "8e15b87c87c3f1cc1556ec6e55328abd",
+          "timestamp": 0
+        },
+        "Supported SDK Versions": {
+          "href": "",
+          "value": "73.0,74.0,75.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0,93.0,94.0,95.0,96.0,97.0,98.0,99.0,100.0,101.0,102.0,103.0,104.0,105.0,106.0",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Device ID": {
+          "href": "",
+          "value": "13f9754257653662c95a74ee974f9e2d",
+          "timestamp": 0
+        },
+        "Compression": {
+          "href": "",
+          "value": "pvr_compression",
+          "timestamp": 0
+        },
+        "Face Tracker Version": {
+          "href": "",
+          "value": "14",
+          "timestamp": 0
+        },
+        "Supported SDK Versions": {
+          "href": "",
+          "value": "69.0,70.0,71.0,72.0,73.0,74.0,75.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0,93.0,94.0,95.0,96.0,97.0,98.0,99.0,100.0,101.0,102.0,103.0,104.0",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Device ID": {
+          "href": "",
+          "value": "4474f0e7e651f3eadc5b0d56681b8eb2",
+          "timestamp": 0
+        },
+        "Supported SDK Versions": {
+          "href": "",
+          "value": "73.0,74.0,75.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0,93.0,94.0,95.0,96.0,97.0,98.0,99.0,100.0,101.0,102.0,103.0,104.0,105.0",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

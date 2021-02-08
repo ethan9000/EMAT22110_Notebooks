@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1522550086442,
+      "content": "Hi Ethan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1521857964173,
+      "content": "Hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/facebookuser_ooefave9mw"
+}

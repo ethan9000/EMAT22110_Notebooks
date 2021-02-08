@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Joe Fuchs"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1523983196270,
+      "content": "3302687385",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joe Fuchs",
+      "timestamp_ms": 1523983180685,
+      "content": "Ok cool, what\u00e2\u0080\u0099s your number?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1523981848225,
+      "content": "Yeah that\u00e2\u0080\u0099s something I\u00e2\u0080\u0099d be interested in",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joe Fuchs",
+      "timestamp_ms": 1523981602173,
+      "content": "My girlfriends mom is trying to get a website made up for a CrossFit, would you be able to do that?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Joe Fuchs",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/joefuchs_ld4ewdngnw"
+}

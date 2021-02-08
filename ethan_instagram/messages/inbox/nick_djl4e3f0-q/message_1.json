@@ -1,0 +1,369 @@
+{
+  "participants": [
+    {
+      "name": "Nick"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606881764974,
+      "content": "I feel that all the time",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606881756046,
+      "content": "Yep that\u00e2\u0080\u0099s college lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606881700058,
+      "content": "that's good to hear, ngl there were a couple times this semester where i was like oh god wtf am I doing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606881504952,
+      "content": "Like that\u00e2\u0080\u0099s all I have now and I\u00e2\u0080\u0099m doing great and I love it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606881485468,
+      "content": "Yeah lol it takes a lot to get into the grove of college plus no one I know has done really well on gen eds once you get to major specific classes is when you thrive",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606881254777,
+      "content": "that's honestly really reassuring \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606881123058,
+      "content": "Yeah plus your first year is always rough adjusting to school I didn\u00e2\u0080\u0099t do great my first year either especially my first semester",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606881075343,
+      "content": "so I'm trying not to be super hard on myself about it, especially since you never know what opportunities might come up",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606881048854,
+      "content": "that's what my dad was tellin me the other day",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606881037410,
+      "content": "",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880770021,
+      "content": "And yeah after year one is when you decide",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Nick"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880743384,
+      "content": "Yeah it\u00e2\u0080\u0099s more arts but it\u00e2\u0080\u0099s really cool and hands on",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880700562,
+      "content": "I'm gonna do a year or so and see if i really wanna lock in for it, thanks for the pointer to about industrial design",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880650432,
+      "content": "Mech engineering is cool too tho especially when you hook up with a electrical engineer and make robots",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880609382,
+      "content": "If you like the design aspect you should look at industrial design less math and more design",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880581082,
+      "content": "the math and chem sucks ass but the actual design class was really fun for me this semester",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880565948,
+      "content": "for sure that's what I'm hype for",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880559087,
+      "content": "",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880531456,
+      "content": "I\u00e2\u0080\u0099ve done two now and learned way more than in school same with starting my own companies",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Nick"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880493260,
+      "content": "Yeah coops are great that\u00e2\u0080\u0099s were you actually learn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880470360,
+      "content": "work*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880468474,
+      "content": "yeah I'm excited for the co-op stuff since I'll be doing real field worm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880453826,
+      "content": "",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880450480,
+      "content": "its called Reaper",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880442067,
+      "content": "Yeah that\u00e2\u0080\u0099s cool what software do you use",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880428586,
+      "content": "Also tbh it doesn\u00e2\u0080\u0099t matter what your degree is as long as you have on you portfolio matter",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Nick"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880418412,
+      "content": "aw thanks haha that was a night of my playing around with the electronic sounds i had on my system",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880390658,
+      "content": "The warp drive thing was really cool I could see that in a video game",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880351737,
+      "content": "not what I'm going to school for, but something I'm pretty passionate about as a hobby",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880334181,
+      "content": "my most recent vid on my account is like what I'm learning to do",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880255341,
+      "content": "Yep lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880231494,
+      "content": "please do, sounds dope",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880208356,
+      "content": "I\u00e2\u0080\u0099ll send you a link tomorrow it\u00e2\u0080\u0099s really cool they use a composer base and a singer style and then it makes music",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880157948,
+      "content": "that's really interesting to me yeah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880120809,
+      "content": "Yeah also there\u00e2\u0080\u0099s a lot of cool stuff with ai composition going on right now",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880098395,
+      "content": "Yeah that\u00e2\u0080\u0099s cool I took piano lessons for a while but I sucked and I only did it cause my mom made me lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880096634,
+      "content": "I'll keep in mind about computer stuff tho, im really into learning about how people go about things like that",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880048876,
+      "content": "like you coding",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606880042096,
+      "content": "I took piano lessons so i think thats what started me haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606880022010,
+      "content": "Oohhhh cool I always wished I had musical talent lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606879994617,
+      "content": "its like symphonic music but im learning to compose using digital instrumemts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606879992914,
+      "content": "You got that mic that\u00e2\u0080\u0099s awesome",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606879983745,
+      "content": "Thanks lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606879973012,
+      "content": "but honestly what we chatted about was super interesting to me, you've got a lot of really cool stuff going on",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606879964813,
+      "content": "That\u00e2\u0080\u0099s sounds cool so it music that\u00e2\u0080\u0099s a video?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606879945163,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1606879925165,
+      "content": "ohhhh lmao yeah I'll send i pic i play games but im starting to get into like teaching myself orchestration, I started working on an album that would work like a video game ost",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1606879836587,
+      "content": "Hey if you ever want to be a computer engineer or digital science hit my up lol also you said you had a dope set up do I wanna know what it is",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nick",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nick_djl4e3f0-q"
+}

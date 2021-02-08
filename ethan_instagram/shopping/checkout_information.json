@@ -1,0 +1,22 @@
+{
+  "checkout_saved_checkout_info": [
+    {
+      "title": "Contact Information",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Name": {
+          "href": "",
+          "value": "Ethan",
+          "timestamp": 0
+        },
+        "Emails": {
+          "href": "",
+          "value": "elephant9000@gmail.com",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

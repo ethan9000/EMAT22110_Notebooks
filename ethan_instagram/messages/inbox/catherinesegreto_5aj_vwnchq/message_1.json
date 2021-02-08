@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Catherine Segreto"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Catherine Segreto",
+      "timestamp_ms": 1501782373029,
+      "share": {
+        "link": "https://www.instagram.com/p/BXVqzjklzcg/",
+        "share_text": "my favourite gif ever",
+        "original_content_owner": "hufflepuffgrievous"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Catherine Segreto",
+      "timestamp_ms": 1500242392252,
+      "content": "Ain't that the truth \u00f0\u009f\u0098\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1500242376828,
+      "content": "I'm pretty sure that just makes it more fun \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Catherine Segreto",
+      "timestamp_ms": 1500242315747,
+      "share": {
+        "link": "https://www.instagram.com/p/BWjXAHgFcly/",
+        "share_text": "But really though \u00f0\u009f\u0098\u0082\n@tomholland2013 \n#tomholland #hollanders #marvel #mcu #spiderman #spidermanhomecoming",
+        "original_content_owner": "baesofmarvel"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Catherine Segreto",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/catherinesegreto_5aj_vwnchq"
+}

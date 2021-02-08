@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Russell"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1540868695987,
+      "share": {
+        "link": "https://www.instagram.com/p/BpgiBkzDtZu/",
+        "share_text": "As a Swede, I can confirm this. \nIKEA thongs are the real shit and sexy as hell. \nWear those and every Swede within a hundred miles radius will immediately get turned on like crazy and hump the nearest meatball.",
+        "original_content_owner": "thosedamfeeels"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Russell",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/russell__3w7z8tasa"
+}

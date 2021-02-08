@@ -1,0 +1,94 @@
+{
+  "devices_devices": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1597547944
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 154.0.0.25.120 (iPad8,1; iOS 13_6; en_US; en-US; scale=2.00; 750x1334; 237443006) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1576362082
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 122.1.0.16.239 (iPhone11,6; iOS 13_1_3; en_US; en; scale=3.00; 1242x2688; 187680513) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1538678126
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 64.0.0.12.96 (iPhone8,1; iOS 12_0; en_US; en-US; scale=2.00; gamut=normal; 750x1334; 124976489) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1488248053
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 10.8.1 (Windows Device; osmeta/Windows 9_3_50207392; en_US; en-US; scale=1.50; gamut=normal; 1200x900) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1479688863
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 9.7.0 (iPhone7,2; iOS 10_1_1; en_US; en; scale=2.00; 750x1334) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Other User",
+      "timestamp_ms": 1547096325291,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/facebookuser_wlicl8rgwq"
+}

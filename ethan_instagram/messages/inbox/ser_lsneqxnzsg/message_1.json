@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "ser"
+    },
+    {
+      "name": "Ethan Hancock"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1569804777488,
+      "content": "I remember that",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ethan Hancock",
+      "timestamp_ms": 1569804774336,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "ser",
+      "timestamp_ms": 1569801815225,
+      "share": {
+        "link": "https://www.instagram.com/p/BcnhRUnDQuY/",
+        "share_text": "remember when everything wasn't so stressful cus i do",
+        "original_content_owner": "itsbiggredd"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "ser",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ser_lsneqxnzsg"
+}
